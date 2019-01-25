@@ -1,6 +1,7 @@
 /*
-SQLyog v10.2 
+SQLyog v10.3 
 MySQL - 5.6.16-log 
+Modify date: 2019-01-25
 *********************************************************************
 */
 /*!40101 SET NAMES utf8 */;
@@ -3593,3 +3594,4 @@ insert into `district` (`id`, `name`, `parent_id`, `initial`, `initials`, `pinyi
 insert into `district` (`id`, `name`, `parent_id`, `initial`, `initials`, `pinyin`, `extra`, `suffix`, `code`, `area_code`, `order`) values('7039','平桂','352','p','pg','pinggui','','区','','0774','2');
 insert into `district` (`id`, `name`, `parent_id`, `initial`, `initials`, `pinyin`, `extra`, `suffix`, `code`, `area_code`, `order`) values('7040','巴什','152','b','bs','bashi','','区','','0477','9');
 insert into `district` (`id`, `name`, `parent_id`, `initial`, `initials`, `pinyin`, `extra`, `suffix`, `code`, `area_code`, `order`) values('7041','叶集','231','y','yj','yeji','','区','','0564','8');
+insert into `district` (`id`, `name`, `parent_id`, `initial`, `initials`, `pinyin`, `extra`, `suffix`, `code`, `area_code`, `order`) values('7042','亚运城','2219','y','yyc','yayuncheng','','片','440113001','020','1');
